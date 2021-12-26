@@ -13,5 +13,5 @@ const concesionaria = {
    
 };
 
-concesionaria.condicion("jjK116");
+
 console.log(concesionaria.autos);
